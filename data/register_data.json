@@ -1,0 +1,41 @@
+[
+  {
+    "info": {
+      "auth_code": "TPSHOP",
+      "scene": "1",
+      "username": "13954676588",
+      "verify_code": "8888",
+      "password": "123456",
+      "password2": "123456"
+    },
+    "status": 1,
+    "status_code": 200,
+    "msg": "注册成功"
+  },
+  {
+    "info": {
+      "auth_code": "TPSHOP",
+      "scene": "1",
+      "username": "13956568655",
+      "verify_code": "8888",
+      "password": "123456",
+      "password2": "123456"
+    },
+    "status": 1,
+    "status_code": 200,
+    "msg": "注册成功"
+  },
+  {
+    "info": {
+      "auth_code": "TPSHOP",
+      "scene": "1",
+      "username": "13976795544",
+      "verify_code": "8888",
+      "password": "123456",
+      "password2": "123456"
+    },
+    "status": 1,
+    "status_code": 200,
+    "msg": "注册成功"
+  }
+]
